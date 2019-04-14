@@ -20,3 +20,12 @@ App.py lists the top_20_wines on the left and shows the bar chart on the right. 
 re-stock their popular wines. 
 
 
+The project holds :
+- app.py
+- top_reviews_graph.ipynb
+- wine_inventory.ipynb
+- wine_ranking.ipynb
+- folder templates which houses index.html
+- folder static which houses TopWineInStock.png output by top_reviews_graph.ipynb and used by index.html
+
+
