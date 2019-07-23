@@ -27,7 +27,7 @@ Top_reviews_graph.ipynb is to read the table top_20_wines, sorts the wines in de
 
 App.py lists the top_20_wines on the left and shows the bar chart on the right. This is to help the restaurant to determine when to re-stock their popular wines. 
 
-<img src="static/images/Top_20_wines.PNG"     alt="Top20WineInDataFrame"     style="float: left; margin-right: 10px;" />
+<img src="static/images/top_20_wines.PNG"     alt="Top20WineInDataFrame"     style="float: left; margin-right: 10px;" />
 
 
 The project holds :
